@@ -1,13 +1,18 @@
 ## Hi there 👋
 
-Engineering student exploring computer science, programming, and AI.
+Aspiring developer passionate about computer science, technology, and continuous learning.
 
-Currently focused on:
+## About Me
+Engineering student exploring programming, AI, and problem-solving while building strong fundamentals step by step.
+
+## Currently Focused On
 - C programming & logic building
 - AI/ML & Generative AI
 - Problem solving and fundamentals
 - Consistent learning and self-improvement
 
-### Tech Stack C • Git • GitHub • Python (Learning)
+## Tech Stack
+C • Git • GitHub • Python (Learning)
 
-### Current Goal Building strong fundamentals and creating projects step by step.
+## Current Goal
+Building strong programming fundamentals and developing projects consistently.
